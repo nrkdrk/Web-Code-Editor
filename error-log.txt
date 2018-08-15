@@ -1,0 +1,61 @@
+[15-Aug-2018 07:53:16 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+
+[15-Aug-2018 07:53:18 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 07:53:18 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/error-log.txt (2) in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 07:54:44 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 07:54:46 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 07:59:30 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 07:59:30 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/error-log.txt (2) in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:00:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:00:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:00:03 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:03 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:03 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:00:18 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:18 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:18 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:00:43 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:43 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:43 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:00:53 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:00:53 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:01:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:01:33 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:01:33 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:01:33 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:11:01 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:11:01 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:11:01 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:11:03 Europe/Berlin] PHP Notice:  Undefined index: Dosya in C:\xampp\htdocs\index.php on line 188
+[15-Aug-2018 08:11:03 Europe/Berlin] PHP Notice:  Undefined index: Düzenle in C:\xampp\htdocs\index.php on line 189
+[15-Aug-2018 08:11:03 Europe/Berlin] PHP Notice:  Undefined index: Kaynak in C:\xampp\htdocs\index.php on line 190
+[15-Aug-2018 08:11:03 Europe/Berlin] PHP Notice:  Undefined index: Yardım in C:\xampp\htdocs\index.php on line 191
+[15-Aug-2018 08:18:28 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:18:28 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:18:28 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:21:06 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:21:06 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:21:06 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:22:44 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:22:48 Europe/Berlin] PHP Notice:  Undefined variable: filemtime in C:\xampp\htdocs\lib\file-control-xhr.php on line 993
+[15-Aug-2018 08:22:50 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:22:50 Europe/Berlin] PHP Notice:  Undefined variable: finalAction in C:\xampp\htdocs\lib\file-control-xhr.php on line 999
+[15-Aug-2018 08:22:53 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:22:53 Europe/Berlin] PHP Notice:  Undefined variable: finalAction in C:\xampp\htdocs\lib\file-control-xhr.php on line 999
+[15-Aug-2018 08:23:01 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:23:09 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:25:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:25:07 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:26:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:26:05 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:27:01 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:27:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:27:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:27:03 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:27:03 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:27:03 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:28:35 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:28:37 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:28:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:29:12 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:29:13 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
