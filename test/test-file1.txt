@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Updated
+=======
+initial text
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438

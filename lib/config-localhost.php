@@ -23,7 +23,11 @@ $ICEcoderUserSettings = array(
 "bannedPaths"	=> array("/var/www/.git","/var/www/sites/all/modules","/var/www/sites/default/files"),
 "allowedIPs"	=> array("*"),
 "autoLogoutMins"	=> 0,
+<<<<<<< HEAD
 "theme"	=> "dracula",
+=======
+"theme"	=> "default",
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438
 "fontSize"	=> "13px",
 "lineWrapping"	=> false,
 "lineNumbers"	=> true,
@@ -34,7 +38,11 @@ $ICEcoderUserSettings = array(
 "indentWithTabs"	=> false,
 "indentAuto"	=> true,
 "indentSize"	=> 4,
+<<<<<<< HEAD
 "pluginPanelAligned"	=> "right",
+=======
+"pluginPanelAligned"	=> "left",
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438
 "bugFilePaths"	=> array(""),
 "bugFileCheckTimer"	=> 0,
 "bugFileMaxLines"	=> 0,
@@ -43,8 +51,13 @@ $ICEcoderUserSettings = array(
 "ftpSites"		=> array(),
 "githubLocalPaths"	=> array(),
 "githubRemotePaths"	=> array(),
+<<<<<<< HEAD
 "previousFiles"		=> "",
 "last10Files"		=> "C:|xampp|htdocs|JetBrainsTeams.html,C:|xampp|htdocs|JetBrains.html,C:|xampp|htdocs|deneme app|denem.php,C:|xampp|htdocs|index.php,C:|xampp|htdocs|lang|turkish.php,C:|xampp|htdocs|test|test-file1.txt,C:|xampp|htdocs|lib|settings-screen.php",
+=======
+"previousFiles"		=> "C:|xampp|htdocs|lib|settings-screen.php",
+"last10Files"		=> "C:|xampp|htdocs|lib|settings-screen.php",
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438
 "favoritePaths"		=> array()
 );
 ?>

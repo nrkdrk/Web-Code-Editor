@@ -59,6 +59,7 @@
 [15-Aug-2018 08:28:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
 [15-Aug-2018 08:29:12 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
 [15-Aug-2018 08:29:13 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+<<<<<<< HEAD
 [16-Aug-2018 03:17:04 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
 [16-Aug-2018 03:17:04 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
 [16-Aug-2018 03:17:04 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
@@ -529,3 +530,5 @@
 [16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/uwt.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/uwt.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
 [16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/JetBrainsTeams_files in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 981
 [16-Aug-2018 04:21:56 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/JetBrainsTeams.html in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 981
+=======
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438

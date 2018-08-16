@@ -423,6 +423,7 @@ $text = array(
 
 	"settings-screen" =>
 	array(
+<<<<<<< HEAD
 		"settings"			=> "ayarlar",
 		"version"			=> "versiyon",
 		"website"			=> "Web sitesi",
@@ -494,22 +495,106 @@ $text = array(
 							"Ancak, güvenilir ve güvenli bir ortamda çalışıyorsanız, bunu burada ayarlamak daha verimlidir.",
 		"Sorry cannot commit..."	=> "Üzgünüz, demo modunda ayar yapılamıyor",
 		"update"			=> "güncelleştirme"
+=======
+		"settings"			=> "settings",
+		"version"			=> "version",
+		"website"			=> "website",
+		"git"				=> "git",
+		"codemirror dir"		=> "codemirror dir",
+		"codemirror version"		=> "codemirror version",
+		"file manager root"		=> "file manager root",
+		"backups"			=> "backups",
+		"keep version control..."	=> "keep version control backups for",
+		"day"				=> "day",
+		"days"				=> "days",
+		"of backups stored..."		=> "of backups stored currently",
+		"deleting actually moves..."	=> "deleting actually moves to ICEcoder's tmp dir",
+		"local/server items..."		=> "local/server items only",
+		"Get in contact..."		=> "Get in contact by...",
+		"You may use..."		=> "You may use ICEcoder for your own purposes, commercial or not, just let us know of any cool uses or customisations. :)<br><br>No warranty or liability accepted for anything, all responsibility of use is your own.",
+		"functionality"			=> "functionality",
+		"check for updates..."		=> "check for updates on load",
+		"auto open last..."		=> "auto open last files on login",
+		"when finding in..."		=> "when finding in files, exclude",
+		"assisting"			=> "assisting",
+		"code assist"			=> "code assist",
+		"visible tabs"			=> "visible tabs",
+		"locked nav"			=> "locked nav",
+		"tag wrapper command"		=> "tag wrapper command",
+		"auto-complete on"		=> "auto-complete on",
+		"security"			=> "security",
+		"new password"			=> "new password",
+		"8 chars min"			=> "8 chars min",
+		"confirm password"		=> "confirm password",
+		"banned files/folders"		=> "banned files/folders",
+		"banned paths"			=> "banned paths",
+		"ip addresses"			=> "ip addresses",
+		"auto-logout after"		=> "auto-logout after",
+		"mins of inactivity..."		=> "mins of inactivity if no unsaved files",
+		"Slash prefixed comma..."	=> "Slash prefixed, comma delimited",
+		"Comma delimited"		=> "Comma delimited",
+		"style"				=> "style",
+		"theme"				=> "theme",
+		"line wrapping"			=> "line wrapping",
+		"line numbers"			=> "line numbers",
+		"indent type"			=> "indent type",
+		"indent size"			=> "indent size",
+		"match brackets"		=> "match brackets",
+		"show trailing space"		=> "show trailing space",
+		"font size"			=> "font size",
+		"auto indent"			=> "auto indent",
+		"auto close tags"		=> "auto close tags",
+		"auto close brackets"		=> "auto close brackets",
+		"layout"			=> "layout",
+		"plugin panel aligned"		=> "plugin panel aligned",
+		"file manager"			=> "file manager",
+		"root"				=> "root",
+		"Set 0 to..."			=> "Set 0 to disable",
+		"Slash prefixed"		=> "Slash prefixed",
+		"bug reporting"			=> "bug reporting",
+		"check in files"		=> "check in files",
+		"every"				=> "every",
+		"secs getting last"		=> "secs, getting last",
+		"lines"				=> "lines",
+		"multi-user"			=> "multi-user",
+		"Make sure you..."		=> "Make sure you do not lock yourself out",
+		"Registration"			=> "Registration",
+		"auth token"			=> "auth token",
+		"Required to get..."		=> "Required to get diffs, commit to your GitHub hosted repo etc. If you do not have one, you can use a:".PHP_EOL.PHP_EOL.
+							"- personal access token (https://help.github.com/articles/creating-an-access-token-for-command-line-use), or".PHP_EOL.
+							"- full client/secret pair token (http://developer.github.com/v3/oauth).".PHP_EOL.PHP_EOL.
+							"It is not recommended you set your token here however and is more secure to enter it when requested by ICEcoder as that will keep it in session only.".PHP_EOL.PHP_EOL.
+							"However, if you work in a trusted and secure environment, it is more efficient to set it here.",
+		"Sorry cannot commit..."	=> "Sorry, cannot commit settings in demo mode",
+		"update"			=> "update"
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438
 	),
 
 	"settings-update" =>
 	array(
+<<<<<<< HEAD
 		"Cannot update config..."	=> "Yapılandırma dosyası güncellenemiyor. Lütfen genel yazma izinlerini ayarlayın.",
 		"and try again"			=> "ve yeniden dene",
 		"and press refresh"		=> "ve yenileyin"
+=======
+		"Cannot update config..."	=> "Cannot update config file. Please set public write permissions on",
+		"and try again"			=> "and try again",
+		"and press refresh"		=> "and press refresh"
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438
 	),
 
 	"updater" =>
 	array(
+<<<<<<< HEAD
 		"Update appears to..."		=> "Güncelleme başarılı görünüyor"
+=======
+		"Update appears to..."		=> "Update appears to be successful"
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438
 	),
     
 	"find-in-files" =>
 	array(
+<<<<<<< HEAD
 		"Enter path to search in" => "Aramak için yol girin",
 		"Enter semicolon-separated masks of files to look at (e.g. *.php;*.html;*.js)" => "Bakmak için noktalı virgülle ayrılmış dosya katmanı girint (e.g. *.php;*.html;*.js)",
 		"Type of text" => "Metin türü",
@@ -519,6 +604,17 @@ $text = array(
 		"Yes" => "Evet",
 		"No" => "Hayır",
 		"Search" => "Ara",
+=======
+		"Enter path to search in" => "Enter path to search in",
+		"Enter semicolon-separated masks of files to look at (e.g. *.php;*.html;*.js)" => "Enter semicolon-separated masks of files to look at (e.g. *.php;*.html;*.js)",
+		"Type of text" => "Type of text",
+		"Fixed text" => "Fixed text",
+		"Regular expression" => "Regular expression",
+		"Case sensitive" => "Case sensitive",
+		"Yes" => "Yes",
+		"No" => "No",
+		"Search" => "Search",
+>>>>>>> d28e13eedefa890aea5ee0e596ac8883864b0438
 	)
 );
 ?>
