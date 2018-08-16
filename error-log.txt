@@ -1,0 +1,531 @@
+[15-Aug-2018 07:53:16 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+
+[15-Aug-2018 07:53:18 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 07:53:18 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/error-log.txt (2) in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 07:54:44 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 07:54:46 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 07:59:30 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 07:59:30 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/error-log.txt (2) in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:00:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:00:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:00:03 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:03 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:03 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:00:18 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:18 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:18 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:00:43 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:43 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:00:43 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:00:53 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:00:53 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:01:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:01:33 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:01:33 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:01:33 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:11:01 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:11:01 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:11:01 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:11:03 Europe/Berlin] PHP Notice:  Undefined index: Dosya in C:\xampp\htdocs\index.php on line 188
+[15-Aug-2018 08:11:03 Europe/Berlin] PHP Notice:  Undefined index: Düzenle in C:\xampp\htdocs\index.php on line 189
+[15-Aug-2018 08:11:03 Europe/Berlin] PHP Notice:  Undefined index: Kaynak in C:\xampp\htdocs\index.php on line 190
+[15-Aug-2018 08:11:03 Europe/Berlin] PHP Notice:  Undefined index: Yardım in C:\xampp\htdocs\index.php on line 191
+[15-Aug-2018 08:18:28 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:18:28 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:18:28 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:21:06 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:21:06 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:21:06 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:22:44 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:22:48 Europe/Berlin] PHP Notice:  Undefined variable: filemtime in C:\xampp\htdocs\lib\file-control-xhr.php on line 993
+[15-Aug-2018 08:22:50 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:22:50 Europe/Berlin] PHP Notice:  Undefined variable: finalAction in C:\xampp\htdocs\lib\file-control-xhr.php on line 999
+[15-Aug-2018 08:22:53 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:22:53 Europe/Berlin] PHP Notice:  Undefined variable: finalAction in C:\xampp\htdocs\lib\file-control-xhr.php on line 999
+[15-Aug-2018 08:23:01 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:23:09 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/lib/settings-screen.php in C:\xampp\htdocs\lib\file-control-xhr.php on line 981
+[15-Aug-2018 08:25:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:25:07 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:26:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:26:05 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:27:01 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:27:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:27:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:27:03 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:27:03 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[15-Aug-2018 08:27:03 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[15-Aug-2018 08:28:35 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:28:37 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:28:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:29:12 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[15-Aug-2018 08:29:13 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\lib\file-control-xhr.php on line 76
+[16-Aug-2018 03:17:04 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[16-Aug-2018 03:17:04 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[16-Aug-2018 03:17:04 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[16-Aug-2018 03:31:31 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[16-Aug-2018 03:31:31 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 989
+[16-Aug-2018 03:31:31 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\lib\file-control-xhr.php on line 990
+[16-Aug-2018 03:40:17 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:17 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:21 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:22 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:22 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:22 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:22 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:22 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:22 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:22 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:22 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:23 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:23 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:23 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:23 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:23 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:23 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:23 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:23 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:24 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:24 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:24 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:24 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:24 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:24 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:24 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:24 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:25 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:25 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:25 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:25 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:25 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:25 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:26 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:27 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:27 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:27 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:27 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:27 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:27 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:28 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:28 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:28 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:28 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:28 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:28 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:28 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:28 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:29 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:29 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:29 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:29 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:29 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:29 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:29 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:29 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:30 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:30 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:30 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:30 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:30 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:30 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:30 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:30 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:31 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:31 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:31 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:31 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:31 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:31 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:32 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:32 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:32 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:32 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:32 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:32 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:32 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:32 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:33 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:34 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:35 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:35 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:35 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:35 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:35 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:35 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:35 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:35 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:36 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:36 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:49 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:50 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 133
+[16-Aug-2018 03:40:51 Europe/Berlin] PHP Warning:  strpos(): Empty needle in C:\xampp\htdocs\lib\multiple-results.php on line 138
+[16-Aug-2018 03:44:32 Europe/Berlin] PHP Notice:  Undefined variable: filemtime in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 993
+[16-Aug-2018 03:44:35 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/deneme app/denem.php in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 981
+[16-Aug-2018 03:44:35 Europe/Berlin] PHP Notice:  Undefined variable: windowsNewLines in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 337
+[16-Aug-2018 03:45:19 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 134
+[16-Aug-2018 03:45:19 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 989
+[16-Aug-2018 03:45:19 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 989
+[16-Aug-2018 03:45:19 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 990
+[16-Aug-2018 03:45:26 Europe/Berlin] PHP Notice:  Undefined variable: fileLoc in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 989
+[16-Aug-2018 03:45:26 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 989
+[16-Aug-2018 03:45:26 Europe/Berlin] PHP Notice:  Undefined variable: fileName in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 990
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/512e9363d6,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/512e9363d6): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/analytics.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/analytics.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/banner-rotator.entry.12550dd7c6461c34cf2f3830f3d74298.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/banner-rotator.entry.12550dd7c6461c34cf2f3830f3d74298.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/banner-rotator.entry.8236690f3e9db1f17562.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/banner-rotator.entry.8236690f3e9db1f17562.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/common.a96c580a8347c6272f085295995dd236.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/common.a96c580a8347c6272f085295995dd236.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/common.c49992982a4c9699a82c.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/common.c49992982a4c9699a82c.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/default-page.9de158812152f3ba91ea.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/default-page.9de158812152f3ba91ea.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/default-page.b21a27f8d8c613a218f76f9c2bcd0ada.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/default-page.b21a27f8d8c613a218f76f9c2bcd0ada.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:30 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/ec.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/ec.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/fbevents.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/fbevents.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/gtm.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/gtm.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/header-bg.png,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/header-bg.png): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/index.entry.0271530076231b3847f4.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/index.entry.0271530076231b3847f4.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/index.entry.74f75ee2dac741e2ac2ce7bb6de53b46.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/index.entry.74f75ee2dac741e2ac2ce7bb6de53b46.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/index.entry.c1820e0fb198611d405a.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/index.entry.c1820e0fb198611d405a.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/index.entry.e108a4a08e2b268ae5af05fefe74ab10.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/index.entry.e108a4a08e2b268ae5af05fefe74ab10.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/index.entry.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/index.entry.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/insight.min.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/insight.min.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/linkid.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/linkid.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/munchkin.js(1).indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/munchkin.js(1).indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/munchkin.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/munchkin.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/nr-1071.min.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/nr-1071.min.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/saved_resource,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/saved_resource): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/silhouette.png,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/silhouette.png): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrains_files/uwt.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrains_files/uwt.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 03:56:31 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/JetBrains_files in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 981
+[16-Aug-2018 03:56:33 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/JetBrains.html in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 981
+[16-Aug-2018 04:21:54 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/512e9363d6,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/512e9363d6): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:54 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/analytics.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/analytics.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:54 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/banner-rotator.entry.12550dd7c6461c34cf2f3830f3d74298.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/banner-rotator.entry.12550dd7c6461c34cf2f3830f3d74298.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:54 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/banner-rotator.entry.8236690f3e9db1f17562.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/banner-rotator.entry.8236690f3e9db1f17562.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:54 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/common.a96c580a8347c6272f085295995dd236.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/common.a96c580a8347c6272f085295995dd236.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:54 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/common.c49992982a4c9699a82c.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/common.c49992982a4c9699a82c.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/default-page.9de158812152f3ba91ea.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/default-page.9de158812152f3ba91ea.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/default-page.b21a27f8d8c613a218f76f9c2bcd0ada.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/default-page.b21a27f8d8c613a218f76f9c2bcd0ada.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/ec.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/ec.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/fbevents.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/fbevents.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/gtm.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/gtm.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/header-bg.png,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/header-bg.png): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/index.entry.0271530076231b3847f4.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/index.entry.0271530076231b3847f4.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/index.entry.74f75ee2dac741e2ac2ce7bb6de53b46.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/index.entry.74f75ee2dac741e2ac2ce7bb6de53b46.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/index.entry.c1820e0fb198611d405a.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/index.entry.c1820e0fb198611d405a.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/index.entry.e108a4a08e2b268ae5af05fefe74ab10.css,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/index.entry.e108a4a08e2b268ae5af05fefe74ab10.css): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/index.entry.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/index.entry.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/insight.min.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/insight.min.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/linkid.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/linkid.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/munchkin.js(1).indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/munchkin.js(1).indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/munchkin.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/munchkin.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/nr-1071.min.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/nr-1071.min.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/saved_resource,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/saved_resource): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/silhouette.png,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/silhouette.png): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  rename(C:/xampp/htdocs/JetBrainsTeams_files/uwt.js.indir,C:/xampp/htdocs/Web Coder/lib/../tmp/.C__xampp_htdocs_JetBrainsTeams_files/uwt.js.indir): Sistem belirtilen yolu bulam�yor. (code: 3) in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 850
+[16-Aug-2018 04:21:55 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/JetBrainsTeams_files in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 981
+[16-Aug-2018 04:21:56 Europe/Berlin] PHP Warning:  filesize(): stat failed for C:/xampp/htdocs/JetBrainsTeams.html in C:\xampp\htdocs\Web Coder\lib\file-control-xhr.php on line 981

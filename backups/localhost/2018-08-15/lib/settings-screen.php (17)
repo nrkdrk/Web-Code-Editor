@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 include("headers.php");
 include("settings.php");
 $t = $text['settings-screen'];
@@ -99,16 +99,19 @@ for ($i=0;$i<count($themeArray);$i++) {
 		<h2>language</h2><br>
 		<select onchange="showButton()" name="languageUser">
 		<?php
-		$langFiles = array("turkish.php","english.php","german.php","french.php","dutch.php","italian.php","norwegian.php","persian.php","portuguese-brazilian.php","spanish.php","chinese-traditional.php");
-		$langText = array("Türkçe","English","Deutsch","Français","Nederlands","Italiano","Norsk","فارسی","Portugues(br)","Espa&ntilde;ol","中國（繁體）");
+		<?php
+		$langFiles = array("chinese-simplified.php","chinese-traditional.php","dutch.php","english.php","french.php","german.php","italian.php","norwegian.php","persian.php","portuguese-brazilian.php","spanish.php");
+		$langText = array("中国（简体）","中國（繁體）","Nederlands","English","Français","Deutsch","Italiano","Norsk","فارسی","Portugues(br)","Espa&ntilde;ol");
 		for ($i=0; $i<count($langFiles); $i++) {
 			echo '<option value="'.$langFiles[$i].'"'.($ICEcoder["languageUser"]==$langFiles[$i] ? ' selected' : '').'>'.$langText[$i].'</option>'.PHP_EOL;
 		}
 		?>
-		</select> <span class="info" style="display: inline-block; padding-top: 2px" title="Reload required after changing">[?]</span>
-		<br><br>
-
-		<h2><?php echo $t['functionality'];?></h2><br>
+		$langFiles = array("chinese-simplified.php","chinese-traditional.php","dutch.php","english.php","french.php","german.php","italian.php","norwegian.php","persian.php","portuguese-brazilian.php","spanish.php");
+		$langText = array("中国（简体）","中國（繁體）","Nederlands","English","Français","Deutsch","Italiano","Norsk","فارسی","Portugues(br)","Espa&ntilde;ol");
+		for ($i=0; $i<count($langFiles); $i++) {
+			echo '<option value="'.$langFiles[$i].'"'.($ICEcoder["languageUser"]==$langFiles[$i] ? ' selected' : '').'>'.$langText[$i].'</option>'.PHP_EOL;
+		}
+		?>
 		<input type="checkbox" onclick="showButton()" name="checkUpdates" value="true"<?php if($ICEcoder["checkUpdates"]) {echo ' checked';};?>> <?php echo $t['check for updates...'];?><br>
 		<input type="checkbox" onclick="showButton()" name="openLastFiles" value="true"<?php if($ICEcoder["openLastFiles"]) {echo ' checked';};?>> <?php echo $t['auto open last...'];?><br>
 		<input type="checkbox" onclick="showButton()" name="updateDiffOnSave" value="true"<?php if($ICEcoder["updateDiffOnSave"]) {echo ' checked';};?>> update diff pane on save
